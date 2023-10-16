@@ -60,7 +60,7 @@ public class ToyStore {
 
         // Пример добавления игрушек
         Toy toy1 = new Toy("1", "Ball", 3);
-        Toy toy2 = new Toy("2", "Dall", 2);
+        Toy toy2 = new Toy("2", "Doll", 2);
         Toy toy3 = new Toy("3", "Car", 4);
 
         toyStore.addToy(toy1);
